@@ -1,4 +1,4 @@
-name: SSH Login Every 3 Days
+name: SSH Login Every 7 Days
 
 # 定义触发条件：每7天触发一次
 on:
